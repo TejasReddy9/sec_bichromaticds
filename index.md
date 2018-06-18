@@ -2,14 +2,12 @@
 layout: default
 ---
 
-# [](#header)Smallest Enclosing Circle
+# Overview
+In this project we have implemented of an example of Bichromatic data structures i.e, smallest enclosed circle problem. A large set of points which can take any of the two types of colours is given and as a result we would form a circle which covers maximum number of points of the same colour in the same plane. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Requirements
+The Computational Geometry Algorithms Library ([CGAL](https://www.cgal.org/download.html)). 
 
-## [](#header-2)Problem Statement
+## Project demo page link
+[Webapp link](page.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-[page](page.html)
