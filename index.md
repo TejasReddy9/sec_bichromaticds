@@ -22,12 +22,10 @@ pip3 install cgal-bindings
 *   Data set seperation
 
 ## Algorithm time complexity
+```
 O(m(n+m)log(n+m))
-
-where,
-m = Size of red data points
-
-n = Size of blue data points
+```
+where, m = Size of red data points, and n = Size of blue data points
 
 ## Additional Algorithms insights
 *   Farther Neighbour Voronoi Diagram
