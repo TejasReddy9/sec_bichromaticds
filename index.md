@@ -7,6 +7,28 @@ In this project we have implemented of an example of Bichromatic data structures
 
 ## Requirements
 The Computational Geometry Algorithms Library ([CGAL](https://www.cgal.org/download.html)). 
+```
+pip3 install cgal-bindings
+```
+
+## Research Papers referred
+1.  Aritra Banik, E.M. Arkin, M.J. Katz, J.S. Mitchell, P. Carmi, _“Conflict-free covering”_, CCCG 2015, Kingston.
+2.  Steven Bitner, Yam Cheung, Ovidiu Daescu, _“Minimum separating circle for bichromatic points in the plane”_, University of Texas at Dallas.
+3.  CGAL Bounding volumes library manual, _“http://doc.cgal.org/latest/Bounding_volumes/index.html"_
+
+## Possible applications using this concept
+*   Communication Jamming
+*   Minimizing Civilian casualities
+*   Data set seperation
+
+## Algorithm time complexity
+O(m(n+m)log(n+m))
+m = Size of red data points
+n = Size of blue data points
+
+## Additional Algorithms insights
+*   Farther Neighbour Voronoi Diagram
+*   Largest Seperating Circle
 
 ## Project demo page link
 [Webapp link](page.html)
