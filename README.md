@@ -2,11 +2,9 @@
 
 *Short desc.*
 
-## Setup
+## Where to find
 
-How to setup and use the webapp:
-
-1. Run the following webpage on which the project is hosted.
+Run the following webpage on which the project is hosted.
 
 [Site Page](https://www.iitj.ac.in/~kumar.9)
 
