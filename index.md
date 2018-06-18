@@ -23,7 +23,10 @@ pip3 install cgal-bindings
 
 ## Algorithm time complexity
 O(m(n+m)log(n+m))
+
+where,
 m = Size of red data points
+
 n = Size of blue data points
 
 ## Additional Algorithms insights
