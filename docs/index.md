@@ -32,4 +32,4 @@ where, m = Size of red data points, and n = Size of blue data points
 *   Largest Seperating Circle
 
 ## Project demo page link
-[Webapp link](../page.html)
+[Webapp link](page.html)
