@@ -2,6 +2,11 @@
 
 *Short desc.*
 
+
+![Travis Build](https://img.shields.io/travis/TejasReddy9/sec_bichromaticds.svg?style=for-the-badge)
+
+![alt image](https://hdbscan.readthedocs.io/en/latest/_images/distance3.svg)
+
 ## Where to find
 
 Run the following webpage on which the project is hosted.
@@ -14,11 +19,11 @@ Run the following webpage on which the project is hosted.
 
 ### Problem Statement
 
-problem statement is _____
+problem statement is a demonstration of Bichromatic Data Structures - Smallest separating/enclosing circle in Bichromatic plane
 
 ### Algorithm
 
-algorithm is _____
+algorithm is Bounding Volumes
 
 ### References
 
