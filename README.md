@@ -2,6 +2,9 @@
 
 *Short desc.*
 
+
+![Travis Build](https://img.shields.io/travis/TejasReddy9/sec_bichromaticds.svg?style=for-the-badge)
+
 ![alt image](https://hdbscan.readthedocs.io/en/latest/_images/distance3.svg)
 
 ## Where to find
@@ -20,7 +23,7 @@ problem statement is a demonstration of Bichromatic Data Structures - Smallest s
 
 ### Algorithm
 
-algorithm is _____
+algorithm is Bounding Volumes
 
 ### References
 
