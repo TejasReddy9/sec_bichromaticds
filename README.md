@@ -2,6 +2,8 @@
 
 *Short desc.*
 
+![alt image](https://hdbscan.readthedocs.io/en/latest/_images/distance3.svg)
+
 ## Where to find
 
 Run the following webpage on which the project is hosted.
@@ -14,7 +16,7 @@ Run the following webpage on which the project is hosted.
 
 ### Problem Statement
 
-problem statement is _____
+problem statement is a demonstration of Bichromatic Data Structures - Smallest separating/enclosing circle in Bichromatic plane
 
 ### Algorithm
 
